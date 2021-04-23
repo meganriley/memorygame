@@ -1,0 +1,30 @@
+#card {
+  border: 1px solid black;
+  width: 20%;
+  height: 160px;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+  background-color: navy;
+  /* background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png"); */
+  border-radius: 5%;
+  justify-items: stretch;
+}
+
+#game {
+  background: bisque;
+}
+
+#image {
+  max-width: 25%;
+}
+
+h1 {
+  background: bisque;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-size: 32px;
+  font-family: 'Original Surfer', cursive;
+  color: goldenrod;
+}
